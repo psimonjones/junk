@@ -1,6 +1,6 @@
 
 TO Do
 
-Key in door
-Turn Key 
-Open door
+Place key in door
+Turn the Key 
+Open the door
