@@ -5,4 +5,6 @@ Place key in door
 Turn the Key 
 Open the door
 
-Close the door
+Walk inside
+Sit down
+
